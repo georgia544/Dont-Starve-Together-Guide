@@ -1,5 +1,4 @@
 package com.dontstarvetogetherguide.app
 
-object IngredientsProvider {
-
+object IngredientsMeatProvider {
 }

@@ -1,12 +1,14 @@
 package com.dontstarvetogetherguide.app
 
 class Ingredient(
-    name: String, stats: Stats, perishTime: Float, imageID: Int,
+    id: String,
+    name: String, stats: Stats, perishTimeDays: Float?, imageID: Int,
     val type: List<IngredientType>, special: String? = null
-) : Food(name, stats, perishTime, imageID, special)
+) : Food(id, name, stats, perishTimeDays, imageID, special)
 
 
-sealed class IngredientType(val value: Float) {
+sealed class IngredientType(val value: Float?) {
+    object None:IngredientType(null)
     class Meat(value: Float) : IngredientType(value)
     class Vegetable(value: Float) : IngredientType(value)
     class Fruit(value: Float) : IngredientType(value)
