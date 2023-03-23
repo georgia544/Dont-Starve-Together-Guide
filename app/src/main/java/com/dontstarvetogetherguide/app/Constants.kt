@@ -83,6 +83,92 @@ val tillweedId = Md5HashCRC8.getUniqueId("tillweed")
 
 //region Meat
 
+val meatId = Md5HashCRC8.getUniqueId("meat")
+val meatCookedId = Md5HashCRC8.getUniqueId("meatCooked")
+val jerkyId = Md5HashCRC8.getUniqueId("jerky")
+
+val monsterMeatId = Md5HashCRC8.getUniqueId("monsterMeat")
+val monsterMeatCookedId = Md5HashCRC8.getUniqueId("monsterMeatCooked")
+val jerkyMonsterId = Md5HashCRC8.getUniqueId("jerkyMonster")
+
+val morselMeatId = Md5HashCRC8.getUniqueId("morselMeat")
+val morselMeatCookedId = Md5HashCRC8.getUniqueId("morselMeatCooked")
+val jerkySmallId = Md5HashCRC8.getUniqueId("jerkySmall")
+
+val drumstickId = Md5HashCRC8.getUniqueId("drumstick")
+val drumstickFriedId = Md5HashCRC8.getUniqueId("drumstickFried")
+
+val fishId = Md5HashCRC8.getUniqueId("fish")
+val morselFishCookedId = Md5HashCRC8.getUniqueId("morselFishCooked")
+
+val frogLegsId = Md5HashCRC8.getUniqueId("frogLegs")
+val frogLegsCookedId = Md5HashCRC8.getUniqueId("frogLegsCooked")
+
+val batiliskWingId = Md5HashCRC8.getUniqueId("batiliskWing")
+val batiliskWingCookedId = Md5HashCRC8.getUniqueId("batiliskWingCooked")
+
+val eelId = Md5HashCRC8.getUniqueId("eel")
+val eelCookedId = Md5HashCRC8.getUniqueId("eelCooked")
+
+val koalefantTrunkId = Md5HashCRC8.getUniqueId("koalefantTrunk")
+val koalefantTrunkCookedId = Md5HashCRC8.getUniqueId("koalefantTrunkCooked")
+
+val winterKoalefantTrunkId = Md5HashCRC8.getUniqueId("WinterKoalefantTrunk")
+
+val leafyMeatId = Md5HashCRC8.getUniqueId("leafyMeat")
+val leafyMeatCookedId = Md5HashCRC8.getUniqueId("leafyMeatCooked")
+
+val guardiansHornId = Md5HashCRC8.getUniqueId("guardiansHorn")
+
+val deerclopsEyeballId = Md5HashCRC8.getUniqueId("deerclopsEyeball")
+
+val molewormId = Md5HashCRC8.getUniqueId("moleworm")
+
+val fishRawId = Md5HashCRC8.getUniqueId("fishRaw")
+val fishSteakCookedId = Md5HashCRC8.getUniqueId("fishSteakCooked")
+
+val barnaclesId = Md5HashCRC8.getUniqueId("barnacles")
+val barnaclesCookedId = Md5HashCRC8.getUniqueId("barnaclesCooked")
+
+val mudfishId = Md5HashCRC8.getUniqueId("mudfish")
+
+val deepBassId = Md5HashCRC8.getUniqueId("deepBass")
+
+val dandyLionfishId = Md5HashCRC8.getUniqueId("dandyLionfish")
+
+val blackCatfishId = Md5HashCRC8.getUniqueId("blackCatfish")
+
+val dappledKoiId = Md5HashCRC8.getUniqueId("dappledKoi")
+
+val goldenKoiId = Md5HashCRC8.getUniqueId("goldenKoi")
+
+val wobsterId = Md5HashCRC8.getUniqueId("wobster")
+val wobsterCookedId = Md5HashCRC8.getUniqueId("wobsterCooked")
+
+val morselFishId = Md5HashCRC8.getUniqueId("morselFishId")
+
+val runtyGruppyId = Md5HashCRC8.getUniqueId("runtyGruppy")
+
+val bittyBaitfishId = Md5HashCRC8.getUniqueId("bittyBaitfish")
+
+val smoltFryId = Md5HashCRC8.getUniqueId("smoltFry")
+
+val nostrilsNakedId = Md5HashCRC8.getUniqueId("nostrilsNaked")
+val nostrilsCharredId = Md5HashCRC8.getUniqueId("nostrilsCharred")
+
+val scorchingSunfishId = Md5HashCRC8.getUniqueId("scorchingSunfish")
+
+val bloomfinTunaId = Md5HashCRC8.getUniqueId("bloomfinTuna")
+
+val spittlefishId = Md5HashCRC8.getUniqueId("spittleFish")
+
+val fallounderId = Md5HashCRC8.getUniqueId("fallounder")
+
+val sweetishFishId = Md5HashCRC8.getUniqueId("sweetishFish")
+
+val iceBreamId = Md5HashCRC8.getUniqueId("iceBream")
+
+
 //endregion
 
 
