@@ -122,8 +122,6 @@ val guardiansHornId = Md5HashCRC8.getUniqueId("guardiansHorn")
 
 val deerclopsEyeballId = Md5HashCRC8.getUniqueId("deerclopsEyeball")
 
-val molewormId = Md5HashCRC8.getUniqueId("moleworm")
-
 val fishRawId = Md5HashCRC8.getUniqueId("fishRaw")
 val fishSteakCookedId = Md5HashCRC8.getUniqueId("fishSteakCooked")
 
