@@ -169,6 +169,37 @@ val iceBreamId = Md5HashCRC8.getUniqueId("iceBream")
 
 //endregion
 
+//region Fruits
+
+val pomegranateId = Md5HashCRC8.getUniqueId("pomegranate")
+val pomegranateSlicedId = Md5HashCRC8.getUniqueId("pomegranateSliced")
+
+val dragonFruitId = Md5HashCRC8.getUniqueId("dragonFruit")
+val dragonFruitCookedId = Md5HashCRC8.getUniqueId("dragonFruitCooked")
+
+val durianId = Md5HashCRC8.getUniqueId("durian")
+val durianExtraSmellyId = Md5HashCRC8.getUniqueId("durianExtraSmelly")
+
+val berriesId = Md5HashCRC8.getUniqueId("berries")
+val berriesRoastedId = Md5HashCRC8.getUniqueId("berriesRoasted")
+
+val bananaCaveId = Md5HashCRC8.getUniqueId("bananaCave")
+val bananaCaveCookedId = Md5HashCRC8.getUniqueId("bananaCaveCooked")
+
+val watermelonId = Md5HashCRC8.getUniqueId("watermelon")
+val watermelonGrilledId = Md5HashCRC8.getUniqueId("watermelonGrilled")
+
+val juicyBerriesId = Md5HashCRC8.getUniqueId("juicyBerries")
+val juicyBerriesRoastedId = Md5HashCRC8.getUniqueId("juicyBerriesRoasted")
+
+val figId = Md5HashCRC8.getUniqueId("fig")
+val figCookedId = Md5HashCRC8.getUniqueId("figCooked")
+
+val lesserGlowBerryId = Md5HashCRC8.getUniqueId("lesserGlowBerry")
+
+
+//endregion
+
 
 
 
